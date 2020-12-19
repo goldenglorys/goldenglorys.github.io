@@ -1,2 +1,2 @@
-# taycode.github.io
+# goldenglorys.github.io
 My Portfolio
