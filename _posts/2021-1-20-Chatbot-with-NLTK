@@ -3,7 +3,7 @@ layout: post
 title: Building a Simple Chatbot with Python using NLTK
 ---
 
-cd ..
+
 ### Introduction
  A chatbot is an artificial intelligence-powered piece of software in a device, application, website or other networks that try to gauge consumer’s needs and then assist them to perform a particular task like a commercial transaction, hotel booking, form submission etc, the possibilities are almost endless.
 Chatbots are extremely helpful for business organizations and also the customers. Facebook released data that proved the value of bots, more than 2 billion messages are sent between people and companies monthly. The HubSpot research tells us that 71% of people want to get customer support from messaging apps. It is a quick way to get their problems solved so chatbots have a bright future in organizations. And today almost every company has a chatbot deployed to engage with the users.
